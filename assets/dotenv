@@ -1,0 +1,3 @@
+BASE_URL = "https://stage-admin.beckon.co.in/api/v1/"
+SOCKET_URL = "http://165.73.252.89:3002";
+MAP_API_KEY = "AIzaSyAq_QY34h7BGOcp8go4IU20Kf3L9br1Ix8";
